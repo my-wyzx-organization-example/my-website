@@ -1,4 +1,7 @@
 # my-website
 
 it is an amazing website.
- edit on exmpale branch
+ edit on exemple branch
+ 
+ Now editing on update-readme branch.
+ 
