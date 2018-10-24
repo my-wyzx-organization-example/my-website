@@ -1,2 +1,5 @@
 # mac ok temp files.
 .DS_Store
+
+# ignore log file
+*.log
