@@ -10,3 +10,7 @@ it is an amazing website.
 ## Purpose
  I set a new comment.
 I set another comment for the update tag.
+
+
+## Getting started section
+here is.
